@@ -1,0 +1,1 @@
+This project aims to analyze Airbnb listings in New York for 2024, focusing on trends, pricing, availability, and neighborhood dynamics. By examining over 20,000 listings, we seek to derive insights that can aid hosts, travelers, and policymakers in understanding the short-term rental market.
